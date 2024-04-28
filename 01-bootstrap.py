@@ -1,13 +1,13 @@
 import tkinter as tk
-from tkinter import ttk
-
+# from tkinter import ttk
+import ttkbootstrap as ttk
 def convert():
     in_miles = entry_int.get()
     in_kms = str(in_miles * 1.6) + ' Km(s)'
     output_string.set(in_kms)
 
 # window
-window = tk.Tk()
+window = ttk.Window(themename='darkly')
 window.title('Miles to Kilometer')
 window.geometry('300x150')
 
