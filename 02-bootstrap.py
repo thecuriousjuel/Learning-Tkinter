@@ -20,7 +20,7 @@ top_label.pack(pady=5)
 text_area = tk.Text(master=window,
                     height=30,
                     width=65)
-text_area.insert(index='1.0', 
+text_area.insert(index='1.0',
                  chars='This is a sample line\nThis is 2nd line')
 text_area.pack(pady=5)
 
