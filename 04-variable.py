@@ -9,7 +9,7 @@ window = tk.Tk()
 window.title('Tkinter Variables')
 window.geometry('600x500')
 
-# tkinter vairbale
+# tkinter variable
 string_var = tk.StringVar(value='<empty>')
 
 # widgets
