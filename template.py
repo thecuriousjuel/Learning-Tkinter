@@ -4,7 +4,7 @@ from tkinter import ttk
 # Window
 window = tk.Tk()
 window.title('<Title>')
-window.geometry('500x600')
+window.geometry('900x600')
 
 # Run
 window.mainloop()
