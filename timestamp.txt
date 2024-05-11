@@ -1,0 +1,74 @@
+Timestamps:
+00:00:00 - Intro 
+00:01:05 - Overview of tkinter + demo app
+
+00:21:27 - Basic widgets 
+00:40:36 - Gettings and setting widget data
+00:54:19 - Tkinter variables 
+01:06:06 - Buttons
+01:32:34 - Buttons with arguments
+01:40:37 - Events 
+01:53:40 - Combobox & Spinbox
+02:10:08 - Canvas 
+02:34:41 - Treeview (Tables)
+02:49:24 - sliders
+03:08:49 - Frames & parenting 
+03:20:30 - Tabs 
+03:27:52 - Menus 
+03:46:51 - Customizing the window 
+
+04:04:28 - Layout intro 
+04:22:29 - Pack
+04:46:18 - Pack + Parenting
+05:01:46 - Grid
+05:24:30 - Place 
+05:45:20 - Understanding widget sizes 
+05:51:34 - Stacking widgets 
+06:01:07 - Toggling widgets 
+06:17:28 - Combining layout methods 
+06:36:59 - Using classes
+07:05:21 - Creating widgets in classes
+07:25:56 - Responsive layouts 
+07:56:51 - Understanding scrolling
+08:17:47 - Creating a scrollable frame
+08:49:39 - Multiple windows 
+
+09:03:04 - Styling 
+09:17:50 - Using themes 
+09:25:49 - Colors 
+09:34:28 - Customtkinter 
+09:54:17 - Creating a ctk app
+10:00:42 - ttkbootstrap
+10:13:42 - ttkbootstrap editor
+10:16:55 - ttkbootstrap extra widgets 
+10:40:11 - Animating widgets 
+11:11:03 - Using images 
+11:42:59 - Image animations 
+12:15:34 - Changing the title bar color
+
+12:27:12 - BMI setup
+12:36:54 - BMI widgets 
+13:01:04 - BMI functionality
+13:16:01 - Metric units 
+13:24:57 - Imperial units 
+
+13:43:09 - Calculator setup 
+13:57:58 - Output labels 
+14:10:31 - Button setup 
+14:25:16 - Image buttons
+14:34:58 - Number buttons
+14:47:38 - Math buttons 
+15:00:32 - Calculator logic
+15:21:45 - Extra operations
+
+15:33:02 - Editor setup 
+15:46:19 - image import
+15:57:28 - Scaling the image 
+16:10:39 - Closing the image 
+16:16:45 - Creating the menu
+16:34:26 - Manipulating the image 
+16:56:17 - Managing the menu data
+17:23:39 - Applying the effects 
+17:42:28 - Reverting the effects 
+17:53:44 - Creating the export panels
+18:14:43 - Exporting the image
