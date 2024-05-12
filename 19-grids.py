@@ -32,10 +32,12 @@ label2.grid(row=1, column=1, sticky='nswe', rowspan=3)
 label3.grid(row=1, column=0, sticky='nswe', columnspan=3, padx=20, ipady=10)
 label4.grid(row=3, column=3, sticky='se')
 
+
 # Exercise
 button1.grid(row=0, column=3, sticky='nsew')
 button2.grid(row=2, column=2, sticky='nsew')
 entry.grid(row=2, column=3, rowspan=2, sticky='ew')
+
 
 # Run
 window.mainloop()
