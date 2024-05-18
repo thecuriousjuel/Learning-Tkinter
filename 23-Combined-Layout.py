@@ -46,7 +46,7 @@ menu_toggle_2.pack(side='left', expand=True)
 
 entry.place(relx=0.5, rely=0.95, relwidth=0.9, anchor='center')
 
-# main widgets
+# main widget
 entry_frame_1 = ttk.Frame(main_frame)
 entry_frame_2 = ttk.Frame(main_frame)
 
