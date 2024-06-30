@@ -1,3 +1,5 @@
+# pylint: disable= W0201, C0115, C0116, C0103
+
 import tkinter as tk
 from tkinter import ttk
 
@@ -60,7 +62,7 @@ class Calculator(tk.Tk):
         self.temperature_label.pack(side='left', expand=True, fill='both', padx=10)
         self.option_list_2.pack(side='left', expand=True, fill='both', padx=10)
 
-    def helper_convert_1(self, scale_1):
+    def helper_convert(self, scale_1):
         key = f'{scale_1}_to_{self.option_list_2_value.get()}'
         value = self.temp_input_var.get()
         converted_value = operations[key](value)
