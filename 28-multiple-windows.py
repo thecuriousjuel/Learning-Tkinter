@@ -28,8 +28,6 @@ class App(tk.Tk):
         ttk.Button(text='Create a New Window', command=create_window).pack(pady=20)
         ttk.Button(text='Close the new Window', command=destroy_window).pack()
 
-
-
 app = App(title='Multiple Windows', height=600, width=900)
 app.widgets(title='Sub Window', height=500, width=500)
 
